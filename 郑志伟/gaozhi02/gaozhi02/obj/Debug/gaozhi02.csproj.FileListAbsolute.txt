@@ -1,0 +1,5 @@
+c:\Program Files (x86)\Kingdee\K3Cloud\WebSite\Bin\gaozhi02.dll
+c:\Program Files (x86)\Kingdee\K3Cloud\WebSite\Bin\gaozhi02.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\gaozhi02\gaozhi02\obj\Debug\gaozhi02.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\gaozhi02\gaozhi02\obj\Debug\gaozhi02.dll
+c:\users\administrator\documents\visual studio 2012\Projects\gaozhi02\gaozhi02\obj\Debug\gaozhi02.pdb
