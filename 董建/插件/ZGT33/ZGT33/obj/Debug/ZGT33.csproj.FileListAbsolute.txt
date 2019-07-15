@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\ZGT33.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\ZGT33.pdb
+D:\vsEN\ZGT33\ZGT33\obj\Debug\ZGT33.dll
+D:\vsEN\ZGT33\ZGT33\obj\Debug\ZGT33.pdb

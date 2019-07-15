@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\ZGT2.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\ZGT2.pdb
+D:\vsEN\ZGT2\ZGT2\obj\Debug\ZGT2.csprojResolveAssemblyReference.cache
+D:\vsEN\ZGT2\ZGT2\obj\Debug\ZGT2.dll
+D:\vsEN\ZGT2\ZGT2\obj\Debug\ZGT2.pdb

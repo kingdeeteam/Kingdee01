@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Testt02.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Testt02.pdb
+D:\vsEN\Testt02\Testt02\obj\Debug\Testt02.csprojResolveAssemblyReference.cache
+D:\vsEN\Testt02\Testt02\obj\Debug\Testt02.dll
+D:\vsEN\Testt02\Testt02\obj\Debug\Testt02.pdb
