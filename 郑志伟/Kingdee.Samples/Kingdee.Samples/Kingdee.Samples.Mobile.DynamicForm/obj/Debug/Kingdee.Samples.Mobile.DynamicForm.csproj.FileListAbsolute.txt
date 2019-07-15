@@ -1,0 +1,15 @@
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.Mobile.DynamicForm.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.Mobile.DynamicForm.pdb
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.csprojAssemblyReference.cache
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.csproj.CoreCompileInputs.cache
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.csproj.CopyComplete
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.dll
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.pdb
+D:\vsEN\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.dll
+D:\vsEN\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.pdb
+D:\vsEN\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.Mobile.DynamicForm.dll
+C:\Users\Administrator\Desktop\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.Mobile.DynamicForm.pdb
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.dll
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Kingdee.Samples.Mobile.DynamicForm\obj\Debug\Kingdee.Samples.Mobile.DynamicForm.pdb

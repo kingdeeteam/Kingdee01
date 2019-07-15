@@ -1,0 +1,15 @@
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.PlugInDev.Report.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.PlugInDev.Report.pdb
+D:\Projects\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.csprojAssemblyReference.cache
+D:\Projects\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.csproj.CoreCompileInputs.cache
+D:\Projects\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.csproj.CopyComplete
+D:\Projects\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.dll
+D:\Projects\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.pdb
+D:\vsEN\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.dll
+D:\vsEN\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.pdb
+D:\vsEN\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.PlugInDev.Report.dll
+C:\Users\Administrator\Desktop\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.PlugInDev.Report.pdb
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.dll
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Kingdee.Samples.PlugInDev.Report\obj\Debug\Kingdee.Samples.PlugInDev.Report.pdb

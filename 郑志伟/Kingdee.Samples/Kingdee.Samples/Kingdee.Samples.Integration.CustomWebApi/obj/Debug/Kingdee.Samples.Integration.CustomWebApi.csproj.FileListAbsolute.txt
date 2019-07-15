@@ -1,0 +1,17 @@
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.Integration.CustomWebApi.dll
+D:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.Integration.CustomWebApi.pdb
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.csprojAssemblyReference.cache
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.csproj.CoreCompileInputs.cache
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.csproj.CopyComplete
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.dll
+D:\Projects\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.pdb
+D:\vsEN\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.dll
+D:\vsEN\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.pdb
+D:\vsEN\Kingdee.Samples\dll\Kingdee.Samples.Integration.CustomWebApi.dll
+D:\vsEN\Kingdee.Samples\dll\Kingdee.Samples.Integration.CustomWebApi.pdb
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.Integration.CustomWebApi.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Kingdee.Samples.Integration.CustomWebApi.pdb
+D:\vsEN\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.dll
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Kingdee.Samples.Integration.CustomWebApi\obj\Debug\Kingdee.Samples.Integration.CustomWebApi.pdb
