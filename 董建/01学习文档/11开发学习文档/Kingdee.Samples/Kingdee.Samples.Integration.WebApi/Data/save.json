@@ -1,0 +1,51 @@
+{
+  "Creator": "",
+  "NeedUpDateFields": [],
+  "NeedReturnFields": [],
+  "IsDeleteEntry": "True",
+  "SubSystemId": "",
+  "IsVerifyBaseDataField": "false",
+  "IsEntryBatchFill": "True",
+  "ValidateFlag": "True",
+  "NumberSearch": "True",
+  "InterationFlags": "",
+  "Model": {
+    "FID": 0,
+    "FName": "张三",
+    "FStaffNumber": "YG001",
+    "FUseOrgId": {
+      "FNumber": "101.1"
+    },
+    "FCreateOrgId": {
+      "FNumber": "101.1"
+    },
+    "FSHRMapEntity": {}
+  }
+}
+
+/*
+  {
+  \"Creator\": \"\",
+  \"NeedUpDateFields\": [],
+  \"NeedReturnFields\": [],
+  \"IsDeleteEntry\": \"True\",
+  \"SubSystemId\": \"\",
+  \"IsVerifyBaseDataField\": \"false\",
+  \"IsEntryBatchFill\": \"True\",
+  \"ValidateFlag\": \"True\",
+  \"NumberSearch\": \"True\",
+  \"InterationFlags\": \"\",
+  \"Model\": {
+    \"FID\": 0,
+    \"FName\": \"张三\",
+    \"FStaffNumber\": \"YG001\",
+    \"FUseOrgId\": {
+      \"FNumber\": \"101.1\"
+    },
+    \"FCreateOrgId\": {
+      \"FNumber\": \"101.1\"
+    },
+    \"FSHRMapEntity\": {}
+  }
+}
+*/
