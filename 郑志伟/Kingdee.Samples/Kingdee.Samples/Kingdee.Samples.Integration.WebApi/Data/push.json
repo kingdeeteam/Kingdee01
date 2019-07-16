@@ -1,0 +1,26 @@
+{
+  "Ids": "",
+  "Numbers": [ "B0001" ],
+  "EntryIds": "",
+  "RuleId": "7c94034c-72ae-4e4d-9247-e9b2a6146261",
+  "TargetBillTypeId": "",
+  "TargetOrgId": "0",
+  "TargetFormId": "PAEZ_TakeOtherEntryDest",
+  "IsEnableDefaultRule": "false",
+  "CustomParams": {}
+}
+
+/*
+{
+  \"Ids\": \"\",
+  \"Numbers\": [ \"B0001\" ],
+  \"EntryIds\": \"\",
+  \"RuleId\": \"7c94034c-72ae-4e4d-9247-e9b2a6146261\",
+  \"TargetBillTypeId\": \"\",
+  \"TargetOrgId\": \"0\",
+  \"TargetFormId\": \"PAEZ_TakeOtherEntryDest\",
+  \"IsEnableDefaultRule\": \"false\",
+  \"CustomParams\": {}
+}
+*/
+

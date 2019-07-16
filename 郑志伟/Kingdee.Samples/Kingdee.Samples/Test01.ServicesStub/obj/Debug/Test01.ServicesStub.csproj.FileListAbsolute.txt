@@ -1,0 +1,8 @@
+D:\vsEN\Kingdee.Samples\Test01.ServicesStub\obj\Debug\Test01.ServicesStub.dll
+D:\vsEN\Kingdee.Samples\Test01.ServicesStub\obj\Debug\Test01.ServicesStub.pdb
+D:\vsEN\Test01.ServicesStub.pdb
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Test01.ServicesStub.pdb
+D:\vsEN\Kingdee.Samples\Test01.ServicesStub\obj\Debug\Test01.ServicesStub.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Test01.ServicesStub\obj\Debug\Test01.ServicesStub.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Test01.ServicesStub\obj\Debug\Test01.ServicesStub.dll
+C:\Users\Administrator\Desktop\Kingdee.Samples\Kingdee.Samples\Test01.ServicesStub\obj\Debug\Test01.ServicesStub.pdb
