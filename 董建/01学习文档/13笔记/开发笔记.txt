@@ -1,0 +1,90 @@
+1.创建各类不同插件的时候继承的基类是不同的
+       动态表单插件              AbstractDynamicFormPlugIn          [开发商][.K3][.业务领域][.子系统].Business.PlugIn；
+       单据编辑插件              AbstractBillPlugIn
+       基础资料编辑插件       AbstractBasePlugIn
+       列表插件                     AbstractListPlugIn
+       操作插件                     AbstractOperationServicePlugIn
+       账表取数插件              SysReportBaseService
+       单据转换插件              AbstractConvertPlugIn
+       反写插件                     AbstractBusinessFlowServicePlugIn
+2.使用普通按钮时填写id 全是大写字母！！
+3.常用的固定方法 onload buttonclick 一类的
+       单据插件接口下的方法   AbstractBillPlugin
+              OnBilllnitialize   视图模型初始化事件    用在初始化时设置控件属性与获取参数等
+              AfterBindData   控件绑定数据后事件    控件绑定数据之后触发，设置字段赋值或者控件的style    
+              BeforeF7Select  基础资料弹出前事件   点击F8或者模糊查询时触发,可以通过该事件在加载前添加过滤条件
+              BeforeClosed     窗口关闭前事件          在关闭窗口前进行某些操作
+              BarItemClick      菜单单击事件              主菜单单击时触发
+              ButtonClick        按钮单击事件              单击按钮触发
+              BeforeDoOperation   操作调用前事件       
+              ListViewClick      列表项目单击事件       选择数据行单击
+              TreeNodeClick   树控件节点单击事件    点击树控件节点触发
+              EntityRowClick   分录行单击事件          分录行单击时触发，设置菜单是否可用，刷新代理字段等
+              CreateNewData 数据模型创建实体对象事件
+              AfterCreateNewData  数据模型创建实体对象完成后事件
+              BeforeUpdateValue    值更新前事件     字段值更新前进行的操作，可以对即将更新的值做检查
+              DataChanged              值更新后事件     字段值更新后进行的操作，可以触发修改其他字段
+              BeforeCreateNewEntryRow 创建分录行前事件
+              AfterCreateNewEntryRow    创建分录行后事件
+       列表插件AbstractListPlugIn
+              ListInitialize             视图模型初始化      在列表初始化时触发，可以在初始化时获取参数
+              AfterGetData          完成取数后事件       列表取数完成后，在数据发送到前端之前触发
+              FormatCellValue      列表格式化接口      在获取数据后，数据发送到前端之前，用来格式化字段的样式
+              OnFormatRowConditions    列表格式化接口    在FormatCellValue后，格式列表如行的样式
+              PrepareFilterParameter    准备过滤条件，构建取数用的SqlBuilder对象前触发，修改列表的过滤条件，牌序子句
+4.常用的对象 
+    View对象
+       属性：
+              this.View(View接口)
+              this.View的常用属性
+                        BillBusinessInfo（界面业务对象元数据）
+                        LayoutInfo（布局元数据）
+                        Model（动态表单模型接口）
+                        OpenParameter（页面调用时传入的参数）
+       方法：
+               GetFieldEditor（获取界面控件对象）
+               ShowMessage（显示信息）
+      Model对象
+        属性：
+               this.View.Model(动态表单模型接口)
+               this.View.Model
+                            常用属性：
+                                DataObject  当前对象的数据实体
+                                      eg： DynamicObjectCollection entrys = (DynamicObjectCollection)this.View.Model.DataObject["POOrderEntry"];
+                                                创建一个 DynamicObjectCollection对象为后面的xx
+                            方法：
+                                GetEntryCurrentRowIndex(获取分录当前行索引)
+                                GetEntryRowCount（获取分录行数量）
+                                CreateNewEntryRow（新建分录行）
+                                GetValue（获取字段（对象）值）
+                                SetValue（设置字段（对象）值）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

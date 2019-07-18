@@ -1,0 +1,11 @@
+1.创建各类不同插件的时候继承的基类是不同的
+       动态表单插件              AbstractDynamicFormPlugIn          [开发商][.K3][.业务领域][.子系统].Business.PlugIn；
+       单据编辑插件              AbstractBillPlugIn
+       基础资料编辑插件       AbstractBasePlugIn
+       列表插件                     AbstractListPlugIn
+       操作插件                     AbstractOperationServicePlugIn
+       账表取数插件              SysReportBaseService
+       单据转换插件              AbstractConvertPlugIn
+       反写插件                     AbstractBusinessFlowServicePlugIn
+2.使用普通按钮时填写id 全是大写字母！！
+3.

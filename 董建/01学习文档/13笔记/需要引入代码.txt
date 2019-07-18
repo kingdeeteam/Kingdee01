@@ -1,0 +1,12 @@
+import clr
+#添加对cloud插件开发的常用组件的引用
+clr.AddReference('Kingdee.BOS')
+clr.AddReference('Kingdee.BOS.Core')
+from System import DateTime
+from Kingdee.BOS.Core.DynamicForm.PlugIn.ControlModel import *
+def BarItemClick(e):
+	if(e.BarItemKey=='tbButton_2'):
+		this.View.ShowMessage(e.BarItemKey)
+def ButtonClick(e):
+	if(e.Key=='F_QRSR_BUTTON'):
+		this.View.ShowMessage(e.Key)

@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Time01.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\Time01.pdb
+D:\vsEN\Time01\Time01\obj\Debug\Time01.csprojResolveAssemblyReference.cache
+D:\vsEN\Time01\Time01\obj\Debug\Time01.dll
+D:\vsEN\Time01\Time01\obj\Debug\Time01.pdb

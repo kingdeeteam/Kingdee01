@@ -1,0 +1,10 @@
+##多选基础资料赋值
+##引入C#中必须的类
+import?clr
+clr.AddReference('Kingdee.BOS')
+clr.AddReference('Kingdee.BOS.Core')
+from?Kingdee.BOS?import?*
+from?Kingdee.BOS.Core?import?*?
+def?OnLoad(e):?
+????LocaleValue=["379337"]
+????this.View.Model.SetValue("F_MFG_MulBase",LocaleValue)????
