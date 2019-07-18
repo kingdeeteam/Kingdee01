@@ -1,5 +1,0 @@
-c:\Program Files (x86)\Kingdee\K3Cloud\WebSite\Bin\zhigengxin.dll
-c:\Program Files (x86)\Kingdee\K3Cloud\WebSite\Bin\zhigengxin.pdb
-c:\users\administrator\documents\visual studio 2012\Projects\zhigengxin\zhigengxin\obj\Debug\zhigengxin.csprojResolveAssemblyReference.cache
-c:\users\administrator\documents\visual studio 2012\Projects\zhigengxin\zhigengxin\obj\Debug\zhigengxin.dll
-c:\users\administrator\documents\visual studio 2012\Projects\zhigengxin\zhigengxin\obj\Debug\zhigengxin.pdb
