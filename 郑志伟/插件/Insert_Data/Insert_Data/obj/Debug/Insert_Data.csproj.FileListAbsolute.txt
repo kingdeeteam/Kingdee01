@@ -1,0 +1,5 @@
+c:\Program Files (x86)\Kingdee\K3Cloud\WebSite\Bin\Insert_Data.dll
+c:\Program Files (x86)\Kingdee\K3Cloud\WebSite\Bin\Insert_Data.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\Insert_Data\Insert_Data\obj\Debug\Insert_Data.dll
+c:\users\administrator\documents\visual studio 2012\Projects\Insert_Data\Insert_Data\obj\Debug\Insert_Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\Insert_Data\Insert_Data\obj\Debug\Insert_Data.csprojResolveAssemblyReference.cache
