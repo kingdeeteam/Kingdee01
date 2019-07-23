@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\GL01.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\bin\GL01.pdb
+D:\vsEN\GL01\GL01\obj\Debug\GL01.dll
+D:\vsEN\GL01\GL01\obj\Debug\GL01.pdb
+D:\vsEN\GL01\GL01\obj\Debug\GL01.csprojResolveAssemblyReference.cache
